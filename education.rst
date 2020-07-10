@@ -1,7 +1,7 @@
 Education
 *********
 
-.. phd:
+.. _phd:
 
 Doctor of Philosophy (Computer Science)
 =======================================
